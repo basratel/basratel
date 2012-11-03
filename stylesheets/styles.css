@@ -532,7 +532,7 @@ body {
   padding: 0px 0 20px 0px;
   margin: 0px;
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #000000;
+  color: #263B57;
   font-weight: normal;
 }
 
@@ -560,7 +560,7 @@ h2 {
 }
 
 h4, h5, h6 {
-  color: #e8e8e8;
+  color: #263B57;
 }
 
 h3 {
