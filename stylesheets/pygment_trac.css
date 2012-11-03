@@ -1,4 +1,4 @@
-.highlight .hll { background-color: #567AA3 }
+.highlight .hll { background-color: #404040 }
 .highlight  { color: #d0d0d0 }
 .highlight .c { color: #999999; font-style: italic } /* Comment */
 .highlight .err { color: #a61717; background-color: #e3d2d2 } /* Error */
@@ -47,7 +47,7 @@
 .highlight .nt { color: #6ab825;} /* Name.Tag */
 .highlight .nv { color: #40ffff } /* Name.Variable */
 .highlight .ow { color: #6ab825; font-weight: normal } /* Operator.Word */
-.highlight .w { color: #20437A } /* Text.Whitespace */
+.highlight .w { color: #404040 } /* Text.Whitespace */
 .highlight .mf { color: #3677a9 } /* Literal.Number.Float */
 .highlight .mh { color: #3677a9 } /* Literal.Number.Hex */
 .highlight .mi { color: #3677a9 } /* Literal.Number.Integer */
