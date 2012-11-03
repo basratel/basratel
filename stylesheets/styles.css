@@ -536,12 +536,12 @@ body {
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
-  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #36587A), color-stop(100%, #000000));
-  background: -webkit-linear-gradient(#36587A, #000000);
-  background: -moz-linear-gradient(#36587A, #000000);
-  background: -o-linear-gradient(#36587A, #000000);
-  background: -ms-linear-gradient(#36587A, #000000);
-  background: linear-gradient(#36587A, #000000);
+  background: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #3261B3), color-stop(100%, #000000));
+  background: -webkit-linear-gradient(#3261B3, #000000);
+  background: -moz-linear-gradient(#3261B3, #000000);
+  background: -o-linear-gradient(#3261B3, #000000);
+  background: -ms-linear-gradient(#3261B3, #000000);
+  background: linear-gradient(#3261B3, #000000);
 }
 
 h1, h2, h3, h4, h5, h6 {
